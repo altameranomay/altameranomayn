@@ -1,0 +1,25 @@
+ls -> to see all the folders
+<foldername> cd .. -> to go back
+<foldername> mkdir <createfoldername> ->to create folder inside the folder
+cd <foldername> -> to open specific folder
+la -> hidden files
+
+
+ubuntu...
+https://github.com/proudcloud/awesome/blob/master/workflow/rails-ubuntu1404.md
+
+
+--with-opt-dir
+--without-opt-dir
+--with-opt-include
+--without-opt-include=${opt-dir}/include
+--with-opt-lib
+--without-opt-lib=${opt-dir}/lib
+--with-make-prog
+--without-make-prog
+--srcdir=.
+--curdir
+--ruby=/home/maybelyn/.rvm/rubies/ruby-2.2.3/bin/$(RUBY_BASE_NAME)
+--help
+--clean
+
